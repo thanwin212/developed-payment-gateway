@@ -28,4 +28,4 @@
 - **User Experiences**: Continuous customer research and surveys were conducted to improve user experiences and UI designs.
 - **Errors Handling and Recovery**: Developed a process to capture failed transactions and provide timely reimbursements. Cooperated with customer-facing teams to address these cases professionally and friendly.
 
-This project exemplifies my expertise in Fintech and showcases my ability to lead complex, mission-critical projects to successful completion.
+This project exemplified my expertise in Fintech and showcases my ability to lead complex, mission-critical projects to successful completion.
