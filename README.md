@@ -1,6 +1,6 @@
 # developed-payment-gateway
 
-# Project: Payment Gateway Development (2015 - 2016)
+# Project: Payment Gateway Development (2015 - 2017)
 
 ## Overview
 - Worked on payment gateway development projects for Red dot Network Myanmar, an Irish-based Fintech company operating in Myanmar.
